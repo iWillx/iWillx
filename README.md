@@ -22,7 +22,4 @@ You can click the Preview link to take a look at your changes.
     <img src="https://i.imgur.com/1q32J3o.png" alt="Invitación al bot" width="80" style="max-width:100%;">
   </a>
 </p>
-<br>
-<hr>
-<iframe src="https://discord.com/widget?id=809425033901637642&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <strong>© <a href="https://github.com/iWillx">iWill</a></strong>
