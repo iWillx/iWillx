@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="node.js" width="26px" src="https://camo.githubusercontent.com/973a118e690e810599bc0b9b3fcec3a314505b412e307e5eab8ff8a2211ddc14/68747470733a2f2f692e696d6775722e636f6d2f74594c465a42682e706e67" data-canonical-src="https://i.imgur.com/tYLFZBh.png" style="max-width:100%;">
 <br>
 <hr>
-
-
 <p align="center">
 <a href="https://discord.gg/jpsyvZRYXY" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80" style="max-width:100%;">
@@ -24,5 +22,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://i.imgur.com/1q32J3o.png" alt="Invitación al bot" width="80" style="max-width:100%;">
   </a>
 </p>
-
+<br>
+<hr>
+<iframe src="https://discord.com/widget?id=809425033901637642&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <strong>© <a href="https://github.com/iWillx">iWill</a></strong>
