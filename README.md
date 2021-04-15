@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <p align="center">
 <a href="https://discord.gg/jpsyvZRYXY" rel="nofollow">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80" style="max-width:100%;">
+    <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" alt="Discord" width="80" style="max-width:100%;">
   </a>
 <a href="https://discord.com/oauth2/authorize?client_id=812198687475236903&scope=bot&permissions=8" rel="nofollow">
     <img src="https://i.imgur.com/1q32J3o.png" alt="Invitación al bot" width="80" style="max-width:100%;">
